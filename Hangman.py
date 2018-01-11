@@ -2,7 +2,7 @@
 """
 Created on Fri Jan 05 11:32:45 2018
 
-@author: shrek
+@author: dojosrini
 """
 import random
 from PyDictionary import PyDictionary
